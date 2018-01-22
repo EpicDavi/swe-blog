@@ -7,11 +7,11 @@ permalink:        pretty
 relative_permalinks: true
 
 # Setup
-title:            'BLOG'
-tagline:          'Davis Blog'
-description:      'Hey! I&#39;m <a href="http://daviskr.com/">Davis</a>, and this is my blog!'
-url:              http://daviskr.com/blog/
-baseurl:          /blog 
+title:            'CS373 Spring 2018: Davis Robertson'
+tagline:          'SWE Blog'
+description:      'I&#39;m <a href="http://daviskr.com/">Davis Robertson</a>, and this is my blog for SWE CS373.'
+url:              http://daviskr.com/swe-blog/
+baseurl:          /swe-blog 
 
 author:
   name:           'Davis Robertson'
